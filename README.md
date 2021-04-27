@@ -1,8 +1,4 @@
 # MXEnum
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/gh0x0st/MXEnum/graphs/commit-activity)
-[![GitHub license](https://img.shields.io/github/license/gh0x0st/MXEnum)](https://github.com/gh0x0st/MXEnum/blob/master/LICENSE)
-[![GitHub forks](https://img.shields.io/github/forks/gh0x0st/MXEnum)](https://github.com/gh0x0st/MXEnum/network)
-[![GitHub issues](https://img.shields.io/github/issues/gh0x0st/MXEnum)](https://github.com/gh0x0st/MXEnum/issues)
 
 A simple script to enumerate MX records from an email address
 
